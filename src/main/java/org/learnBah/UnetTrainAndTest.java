@@ -1,4 +1,4 @@
-package org.sbml.spatial.segmentation;
+package org.learnBah;
 
 import org.datavec.api.split.FileSplit;
 import org.datavec.image.loader.BaseImageLoader;
