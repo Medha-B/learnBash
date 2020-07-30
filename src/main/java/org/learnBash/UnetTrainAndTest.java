@@ -1,4 +1,4 @@
-package org.learnBah;
+package org.learnBash;
 
 import org.datavec.api.split.FileSplit;
 import org.datavec.image.loader.BaseImageLoader;
